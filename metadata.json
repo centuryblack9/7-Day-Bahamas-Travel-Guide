@@ -1,0 +1,6 @@
+{
+  "name": "7-Day Bahamas Itinerary Framework: Guide to the Out Islands",
+  "description": "Plan a premium 7 days Bahamas vacation beyond Nassau. Complete route guide to Great Exuma, Stocking Island, Staniel Cay swimming pigs, Eleuthera, and Harbour Island.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
